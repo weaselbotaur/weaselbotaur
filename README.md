@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weaselbotaur but what appears on the government issued photo id is Benjamin Keen.
+- 👋 Hi, I’m @weaselbotaur but what appears on the government issued photo id is B... Keen.
   
 - 👀 I’m interested in the hardware/software interface, formally from the position of security.
 
